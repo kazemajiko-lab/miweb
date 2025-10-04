@@ -1,1 +1,5 @@
 chanchito feliz 2
+<<<<<<< HEAD
+=======
+chanchito feliz 2
+>>>>>>> ramab
