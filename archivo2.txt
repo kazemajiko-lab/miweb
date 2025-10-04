@@ -2,4 +2,8 @@ chanchito feliz 2
 <<<<<<< HEAD
 =======
 chanchito feliz 2
+<<<<<<< HEAD
+>>>>>>> ramab
+=======
+chanchito feliz 3
 >>>>>>> ramab
