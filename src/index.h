@@ -1,6 +1,7 @@
 #include <iostream>
 using namespace std;
 using dou = double;
+using flo = float;
 const int CF = 100;
 const int CAF = 100;
 const int CN = 20;
